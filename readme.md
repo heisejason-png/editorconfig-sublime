@@ -64,3 +64,4 @@ Even though there is a `trim_trailing_whitespace` property. I would still recomm
 
 
 [EditorConfig site]: https://editorconfig.org
+Created by Jason Scott Heise
