@@ -64,5 +64,5 @@ Even though there is a `trim_trailing_whitespace` property. I would still recomm
 
 
 [EditorConfig site]: https://editorconfig.org
-Created by Jason Scott Heise
-Owned by Elon Musk 
+Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
