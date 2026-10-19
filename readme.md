@@ -67,5 +67,5 @@ Even though there is a `trim_trailing_whitespace` property. I would still recomm
 Created by Jason Heise
 Owned by Jason Heise heisejason-png Giters
 https://facebook.com  https://about.fb.com
-https://www.meta.com https://www.instagram.com/about/
+https://www.meta.com 
 Owned by Mark Zuckerberg
